@@ -1,0 +1,13 @@
+# User-specific CATIA output: never commit these
+*.CATSettings
+*.CATPreferences
+*.log
+CATIA_Settings_Plan.json
+ApplyLargeAssemblyProfile.CATScript
+
+# Local/editor artifacts
+work/
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
